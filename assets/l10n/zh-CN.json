@@ -2,57 +2,57 @@
   "common": {
     "operation": {
       "revealInFolder": {
-        "mac": "Reveal in Finder",
-        "other": "Reveal in Folder"
+        "mac": "在发现中展示",
+        "other": "在发现中展示"
       },
-      "share": "Share",
-      "saveAs": "Save as",
+      "share": "分享",
+      "saveAs": "保存至",
       "play": {
         "music": "Play",
         "game": "Play"
       },
-      "edit": "Edit",
-      "duplicate": "Duplicate",
-      "delete": "Delete"
+      "edit": "编辑",
+      "duplicate": "复制",
+      "delete": "删除"
     },
     "soundpack": {
-      "name": "Soundpack Name",
-      "author": "Author",
-      "description": "Description",
-      "email": "E-mail",
-      "url": "URL"
+      "name": "音效包名称",
+      "author": "作者",
+      "description": "描述",
+      "email": "邮箱",
+      "url": "网址"
     }
   },
   "ui": {
     "soundpack": {
-      "title": "Soundpack",
-      "createSoundpack": "Create a soundpack",
-      "importSoundpack": "Import Soundpack",
-      "link": "Link",
-      "localFile": "Local File",
-      "corruptedSoundpack": "A Corrupted Soundpack",
-      "corruptedSoundpackSubtitle": "Sorry, please delete this",
-      "compose": "Compose"
+      "title": "语音包",
+      "createSoundpack": "创建音效包",
+      "importSoundpack": "导入音效包",
+      "link": "链接",
+      "localFile": "本地文件",
+      "corruptedSoundpack": "损坏的音效包",
+      "corruptedSoundpackSubtitle": "对不起，请删除这个",
+      "compose": "编写"
     },
     "soundpack_editor": {
     },
     "settings": {
-      "title": "Settings",
+      "title": "设置",
       "appearance": {
-        "name": "Appearance",
-        "brightness": "Brightness",
-        "darkMode": "Dark Mode",
-        "lightMode": "Light Mode",
-        "language": "Language"
+        "name": "外貌",
+        "brightness": "亮度",
+        "darkMode": "黑夜模式e",
+        "lightMode": "白天模式",
+        "language": "语言"
       }
     }
   },
   "app": {
-    "soundpack": "Soundpack",
-    "settings": "Settings",
-    "about": "About"
+    "soundpack": "音效包",
+    "settings": "设置",
+    "about": "关于"
   },
   "language": {
-    "en": "English"
+    "en": "英语"
   }
 }
